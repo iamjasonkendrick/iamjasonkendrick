@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a eCommerce site for clothing brand<br><br>🌱 I’m currently learning Machine Learning, Flutter and Advance data structure concepts<br><br>👯 I’m looking to collaborate on a LLM project<br><br>🤝 I’m looking for help with a ERP project for educational institutions<br><br>👨‍💻 All of my projects are available at https://github.com/iamjasonkendrick/<br><br>💬 Ask me about React, Next, Node, Java, Python and ML<br><br>📫 How to reach me dev.iamkamal@gmail.com
+🔭 I’m currently working on a eCommerce site for clothing brand<br><br>🌱 I’m currently learning Machine Learning, Flutter and Advance data structure concepts<br><br>👯 I’m looking to collaborate on a LLM project<br><br>🤝 I’m looking for help with a ERP project for educational institutions<br><br>👨‍💻 All of my projects are available at https://github.com/iamjasonkendrick/<br><br>💬 Ask me about React, Next, Node, Java, Python and ML<br><br>📫 How to reach me dev.jasonkendrick@gmail.com
 
 
 # 💻 Tech Stack:
